@@ -1,0 +1,6 @@
+54.222.192.208
+SFTP
+22
+liusibo
+q1w2e3
+/mnt/s3_extract_data/extract_data
